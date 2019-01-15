@@ -15,6 +15,3 @@ This is my first repository.
 # git merge branch_a - merges branch_a into the current checkout branch
 # You can find more information at the following url
 # https://www.youtube.com/watch?v=IHaTbJPdB-s
-# 
-# 
-# 
